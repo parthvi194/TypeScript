@@ -52,7 +52,7 @@ type User = {
 }
 
 const u: User ={
-    username: "parthvi";
+    username: "parthvi",
     password: "123"
 }
 
